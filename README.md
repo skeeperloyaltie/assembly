@@ -31,7 +31,7 @@
 
   EXample: 
     - 0725H
-      07 represents the low order bytes while 25 represents the high order bytes so 
+    - 07 represents the low order bytes while 25 represents the high order bytes so 
 
     25 will be placed on the left  side of the memory basically taken from the register
     07 will be placed on the right side of the memory basically taken from the register
